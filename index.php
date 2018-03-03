@@ -1,4 +1,4 @@
-<?php
+<?php 
 session_start();
 ob_start(); //Fix Error of using header
 include 'inc/header.php';   //Header of Website

@@ -90,6 +90,56 @@
                 <p class="lead">member</p>
             </div>
         </div>
+        
+        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
+            <div class="circle-container">
+                <img src="imgs/team/Bassant Gamil.jpg" draggable="false" title="Bassant Gamil" alt="Bassant Gamil photo">
+            </div>
+            <div class="member-info">
+                <p class="lead">Bassant Gamil</p>
+                <p class="lead">member</p>
+            </div>
+        </div>
+
+        <div class="member col-xs-12 col-md-5 wow fadeInRight " data-wow-duration="1.5s">
+            <div class="circle-container">
+                <img src="imgs/team/Khloud Saed.jpg" draggable="false" title="Khloud Saed" alt="Khloud Saed photo">
+            </div>
+            <div class="member-info">
+                <p class="lead">Khloud Saed</p>
+                <p class="lead">member</p>
+            </div>
+        </div>
+
+        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
+            <div class="circle-container">
+                <img src="imgs/team/Aya Sayed.jpg" draggable="false" title="Aya Sayed" alt="Aya Sayed photo">
+            </div>
+            <div class="member-info">
+                <p class="lead">Aya Sayed</p>
+                <p class="lead">member</p>
+            </div>
+        </div>
+        
+        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
+            <div class="circle-container">
+                <img src="imgs/team/Samar Hassan.jpg" draggable="false" title="Samar Hassan" alt="Samar Hassan photo">
+            </div>
+            <div class="member-info">
+                <p class="lead">Samar Hassan</p>
+                <p class="lead">member</p>
+            </div>
+        </div>
+        
+        <div class="member col-xs-12 col-md-5 wow fadeInLeft " data-wow-duration="1.5s">
+            <div class="circle-container">
+                <img src="imgs/team/Gehad Kassem.jpg" draggable="false" title="Gehad Kassem" alt="Gehad Kassem photo">
+            </div>
+            <div class="member-info">
+                <p class="lead">Gehad Kassem</p>
+                <p class="lead">member</p>
+            </div>
+        </div>
 
 
     </div>
@@ -325,13 +375,22 @@
                 </p>
             </div>
         </div>
+        <div class="text-center">
+            <div style="display:inline-block; margin-right: 30px;" class="row wow pulse" data-wow-duration="0.9s" data-wow-iteration="5">
+                <div class="col-xs-12">
+                    <div class="joinus">
+                        <a href="https://services.google.com/fb/forms/joinwomentechmakers/" target="_blank" draggable="false"><button class="btn btn-danger btn-lg">BECOME A MEMBER</button></a>
+                    </div>
+                </div> 
+            </div>
 
-        <div class="row wow pulse " data-wow-duration="0.9s" data-wow-iteration="5">
-            <div class="col-xs-12">
-                <div class="joinus">
-                    <a href="https://services.google.com/fb/forms/joinwomentechmakers/" target="_blank" draggable="false"><button class="btn btn-danger btn-lg">BECOME A MEMBER</button></a>
-                </div>
-            </div> 
+            <div style="display:inline-block; margin-left: 30px;" class="row wow pulse " data-wow-duration="0.9s" data-wow-iteration="5">
+                <div class="col-xs-12">
+                    <div class="joinus">
+                        <a href="https://goo.gl/forms/MtLiIunPQzgVN6Ru2" target="_blank" draggable="false"><button class="btn btn-danger btn-lg">JOIN OUR TEAM</button></a>
+                    </div>
+                </div> 
+            </div>
         </div>
     </div>
 </section>
