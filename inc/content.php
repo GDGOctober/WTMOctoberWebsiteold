@@ -180,7 +180,7 @@
     <div class="container">
         <div class="row wow fadeIn ">
 
-            <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.2s">
+            <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.6s">
                 <div class="imgBox">
                     <img src="imgs/event/io17.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
                     <span class="time">
@@ -190,12 +190,12 @@
                 </div>
 
                 <div class="title">
-                    <a class="eventName" href="event.html" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
+                    <a class="eventName" href="#" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
                     <span class="place">
                         <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
                             akhbar el youm academy, 6th october/Egypt</a>
                     </span>
-                    <p class="lead no-transform">
+                    <p class="lead">
                         Google Developer Group and women techmakers 6th October city " GDG and WTM 6th October " are excited to announce Google I/O for the first time in a row.
                     </p>
                 </div>
@@ -203,6 +203,90 @@
                     <a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#IO17</span></a>
                     <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
                     <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                    <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
+                    
+                    <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="imgBox">
+                            <img src="imgs/event/16.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>GDD India 6 October</h2></a>
+                            <span class="place">
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    akhbar el youm academy, 6th october/Egypt</a>
+                            </span>
+                            <p class="lead">
+Google Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps                            </p>
+                        </div>
+
+                        <div class="hashtag">
+                            <a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="imgBox">
+                            <img src="imgs/event/17.jpg" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>Mobile web study jam 2018</h2></a>
+                            <span class="place">
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    Hashtags Coworking Space, 6th october/Egypt</a>
+                            </span>
+                            <p class="lead">
+Fairly Quick : approximately 3-4 hours of study material , followed by 90 minute (multiple choise) exam .
+                            </p>
+                        </div>
+
+                        <div class="hashtag">
+                            <!--<a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>-->
+                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
+
+                    <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="imgBox">
+                            <img src="imgs/event/18.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>Cloud study jam 2018</h2></a>
+                            <span class="place">
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    Hashtags Coworking Space, 6th october/Egypt</a>
+                            </span>
+                            <p class="lead">
+ Learn the fundamentals of the Google Cloud Platform, how to run containers on it and how to use the platform for data engineering.                            </p>
+                        </div>
+
+                        <div class="hashtag">
+                            <!--<a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#GDD</span></a>-->
+                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        </div>
+                    </div>
 
                 </div>
             </div>
