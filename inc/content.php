@@ -181,29 +181,27 @@
         <div class="row wow fadeIn ">
 
             <div class="event col-xs-12 col-md-5 wow fadeIn " data-wow-duration="1s" data-wow-delay="0.6s">
-                <div class="imgBox">
-                    <img src="imgs/event/io17.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
-                    <span class="time">
-                        <span class="fa fa-calendar-check-o"></span>
-                        mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
-                    </span>
-                </div>
+                        <div class="imgBox">
+                            <img src="imgs/event/io17.png" class="img-responsive" draggable="false" alt="I/O 2017 Logo" title="I/O 2017 Event in 6th October">
+                            <span class="time">
+                                <span class="fa fa-calendar-check-o"></span>
+                                mAY 8,2017 <span class="fa fa-clock-o"></span>9:00 aM - 3:00 pM
+                            </span>
+                        </div>
+                        <div class="title">
+                            <a class="eventName" href="#" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
+                            <span class="place">
+                                <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
+                                    akhbar el youm academy, 6th october/Egypt</a>
+                            </span>
+                            <p class="lead">
+Google Developer Group and women techmakers 6th October city " GDG and WTM 6th October " are excited to announce Google I/O for the first time in a row.                            </p>
+                        </div>
 
-                <div class="title">
-                    <a class="eventName" href="#" target="_blank" draggable="false"><h2>i/o 17 event</h2></a>
-                    <span class="place">
-                        <a href="https://goo.gl/maps/js3XSiEPTKN2" target="_blank" draggable="false"><span class="glyphicon glyphicon-map-marker wow bounce " data-wow-duration="1.5s" data-wow-iteration="1" data-wow-delay="1s"></span>
-                            akhbar el youm academy, 6th october/Egypt</a>
-                    </span>
-                    <p class="lead">
-                        Google Developer Group and women techmakers 6th October city " GDG and WTM 6th October " are excited to announce Google I/O for the first time in a row.
-                    </p>
-                </div>
-                <div class="hashtag">
-                    <a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#IO17</span></a>
-                    <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
-                    <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
-                    <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
+                        <div class="hashtag">
+                            <a href="https://www.facebook.com/search/top/?q=%23io17" draggable="false" target="_blank"><span>#IO17</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDG_OCTOBER/keywords_search" draggable="false" target="_blank"><span>#GDG_OCTOBER</span></a>
+                            <a href="https://www.facebook.com/search/str/%23GDGOCTOBER/keywords_blended_posts" draggable="false" target="_blank"><span>#GDGOctober</span></a>
                         </div>
                     </div>
                     

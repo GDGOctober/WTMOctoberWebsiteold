@@ -281,6 +281,7 @@ hr {
     background-color: #fff;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-right: 16.6%
 }
 
 .member:nth-of-type(odd) {
@@ -291,8 +292,8 @@ hr {
     background-color: #fff;
     border: 4px solid transparent;
     border-image: linear-gradient(140deg, #00c1a6, #1de9b6, #4fc2f8, #4286f5) 1%;
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 300px;
+    max-height: 300px;
     overflow: hidden;
     margin: 0 auto
 }
