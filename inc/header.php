@@ -1,3 +1,14 @@
+<?php
+require ('scripts/config.php');
+
+$select = "SELECT * from `settings`";
+$title = null;
+$sel = mysqli_query($con, $select);
+while ($row = mysqli_fetch_assoc($sel)) {
+    $title = $row['webTitle'];
+}
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -5,7 +16,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="[women Techmakers-6 October] helps women in technology through events, workshops, scholarships, and many other activities.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>WTM 6 October</title>
+        <title><?php echo $title; ?></title>
         <link rel="icon" href="imgs/logo.png">
         <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
         <link rel="stylesheet" href="css/vendors/bootstrap.min.css">

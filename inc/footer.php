@@ -14,6 +14,9 @@
             </div>
 
             <div class="copyright">
+                <p>
+                <U>contact@wtmoctober.org</U>
+                </p>
                 copyright &copy;
                 <span id="year"></span>
                 made by <span class="highmark">gDG 6th october</span>

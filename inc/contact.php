@@ -67,17 +67,11 @@
                             $m->SMTPDebug=3;
                             $m->SMTPAuth=true;
                             $m->SMTPAutoTLS=false;
-                            $m->SMTPOptions = array(
-                                'ssl' => array(
-                                'verify_peer' => false,
-                                'verify_peer_name' => false,
-                                'allow_self_signed' => true
-                                )
-                            );
+                           
                             $m->Host='smtp.gmail.com'; //SMTP HOST
                             $m->Port=587;
-                            $m->Username='test@example.com';  //replace with your email address
-                            $m->Password='PASSWORD';         //replace with your password
+                            $m->Username='ayas46500@gmail.com';  //replace with your email address
+                            $m->Password='ayaaya44';         //replace with your password
                             $m->SMTPSecure='tls';
                             $m->isHTML(false);
                             $m->CharSet='UTF-8';
@@ -87,7 +81,7 @@
                             $m->SetFrom($email, $fName);
                             $m->AddReplyTo($email, $fName);
 
-                            $m->AddAddress('test@example.com', 'myName'); //Recieved Email
+                            $m->AddAddress('ayas46500@gmail.com', 'myName'); //Recieved Email
                             if($m->send()) {
                                 header('Location: thanks.php'); 
                                 exit();
